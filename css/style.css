@@ -29,8 +29,10 @@ i{
     display: block;
     text-align: right;
 }
-
-img {
+ img{
+     margin-right: 5px;
+ }
+.avatar{
     width: 120px;
     float: left;
     margin: 30px 30px 30px 70px;
@@ -44,7 +46,10 @@ padding: 0px;
 margin-bottom: 20px;
 }
 li{
+    font-size: 20px;
     list-style-type: none;
 }
-
+div.grid_12{
+    text-align: right;
+}
 
