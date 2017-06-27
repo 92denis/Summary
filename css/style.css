@@ -9,7 +9,7 @@ h1{
     
 }
 h2{ 
-     font-size: 30px;
+    font-size: 30px;
     margin: 10px 0px  0px 0px;
 }
 
@@ -33,9 +33,9 @@ i{
      margin-right: 5px;
  }
 .avatar{
-    width: 120px;
+    width: 160px;
     float: left;
-    margin: 30px 30px 30px 70px;
+    margin: 30px;
     border: 1px solid black;
 }
 #contact{
@@ -46,10 +46,8 @@ padding: 0px;
 margin-bottom: 20px;
 }
 li{
-    font-size: 20px;
+    margin: 2px;
+    font-size: 18px;
     list-style-type: none;
-}
-div.grid_12{
-    text-align: right;
 }
 
